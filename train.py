@@ -6,7 +6,7 @@ a = argparse.ArgumentParser(description="Train a simple CNN model and save impro
 a.add_argument("--bsize", help="provide batch size for training (default: 40)", type=int, default=40)
 args = a.parse_args()
 
-### ---------- Import Relevand Libraries ----------
+### ---------- Import Relevant Libraries ----------
 
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
