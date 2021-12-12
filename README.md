@@ -10,3 +10,5 @@ CNN Model:https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/mode
 2) Testing: The accuracy(used Root Mean Squared Propagation as the optimiser) and loss(cross entropy in this case) are measured to give picture about the correctness of the model. In my case I achieved 93% accuracy(code reference: https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/test.py).
 Note: Observed that the accuracy changes from processor to processor but on average over 90% has been observed.
 3) A new input image is fed to the trained CNN Model and based on the type of distrcation exhibited by the driver the classification is done(code reference: https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/predict.py).
+
+Research paper related to this: https://www.jardcs.org/abstract.php?id=606
