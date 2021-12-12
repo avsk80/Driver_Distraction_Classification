@@ -12,4 +12,5 @@ Note: Observed that the accuracy changes from processor to processor but on aver
 3) A new input image is fed to the trained CNN Model and based on the type of distrcation exhibited by the driver the classification is done(code reference: https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/predict.py).
 
 Research paper related to this: https://www.jardcs.org/abstract.php?id=606
+
 How to execute this project? video link: https://youtu.be/f2AAkIMPD1c
