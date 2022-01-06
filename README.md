@@ -11,6 +11,6 @@ CNN Model:https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/mode
 Note: Observed that the accuracy changes from laptop to laptop (based on processor) but on average over 90% has been observed.
 3) A new input image is fed to the trained CNN Model and based on the type of distrcation exhibited by the driver the classification is done(code reference: https://github.com/avsk80/Driver_Distraction_Evaluation/blob/main/predict.py).
 
-Research paper related to this: https://www.jardcs.org/abstract.php?id=606
+Research paper that proposes a theoritical solution to address the accidents caused by driver distraction: https://www.jardcs.org/abstract.php?id=606
 
 How to execute this project? video link: https://youtu.be/f2AAkIMPD1c
